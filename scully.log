@@ -1,0 +1,149 @@
+Folder "./scully" doesn't seem to contain custom plugins Deprecation Notice:
+       ======================================================================
+         From now on, the plugin that is being used to render a route is
+         able to be changed by the user. You can do this by adding or
+         enabling the plugin your scully.blog.config.ts
+         file. For your convenience, we loaded the Puppeteer plugin for you.
+
+         To disable this warning enable the plugin of your choice.
+         for Puppeteer please add:
+             import '@scullyio/scully-plugin-puppeteer';
+          to your scully.blog.config.ts file.
+
+          When you get this warning while not using scully-plugin-puppeteer
+          you need to set the defaultRouteRenderer to the name of your plugin.
+          The defaultRouteRenderer is now set to 'routeRenderer'.
+       ======================================================================
+
+(You can skip this, or any future question by using the --noPrompt flag)
+handleUnknownRoute: "/assets/favicon.ico", 404:""
+
+      ----------------
+      Error, missing "<scully-content>" in route "/blog/___UNPUBLISHED___lonvkil6_tVtVDiu7cnQhNXbEF67Clr9pWQAIZ905"
+      without <scully-content> we can not render this route.
+      Make sure it is in there, and not inside any conditionals (*ngIf)
+      You can check this by opening "http://localhost:4200/blog/___UNPUBLISHED___lonvkil6_tVtVDiu7cnQhNXbEF67Clr9pWQAIZ905"
+      when you serve your app with ng serve and then in the browsers console run:
+      document.querySelector('scully-content')
+      ----------------
+      
+handleUnknownRoute: "/assets/favicon.ico", 404:""
+Folder "./scully" doesn't seem to contain custom plugins Deprecation Notice:
+       ======================================================================
+         From now on, the plugin that is being used to render a route is
+         able to be changed by the user. You can do this by adding or
+         enabling the plugin your scully.blog.config.ts
+         file. For your convenience, we loaded the Puppeteer plugin for you.
+
+         To disable this warning enable the plugin of your choice.
+         for Puppeteer please add:
+             import '@scullyio/scully-plugin-puppeteer';
+          to your scully.blog.config.ts file.
+
+          When you get this warning while not using scully-plugin-puppeteer
+          you need to set the defaultRouteRenderer to the name of your plugin.
+          The defaultRouteRenderer is now set to 'routeRenderer'.
+       ======================================================================
+
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npx scully --scanRoutes"----------------------------------
+
+
+
+handleUnknownRoute: "/assets/favicon.ico", 404:""
+
+      ----------------
+      Error, missing "<scully-content>" in route "/blog/___UNPUBLISHED___lonvkil6_tVtVDiu7cnQhNXbEF67Clr9pWQAIZ905"
+      without <scully-content> we can not render this route.
+      Make sure it is in there, and not inside any conditionals (*ngIf)
+      You can check this by opening "http://localhost:4200/blog/___UNPUBLISHED___lonvkil6_tVtVDiu7cnQhNXbEF67Clr9pWQAIZ905"
+      when you serve your app with ng serve and then in the browsers console run:
+      document.querySelector('scully-content')
+      ----------------
+      
+Folder "./scully" doesn't seem to contain custom plugins Deprecation Notice:
+       ======================================================================
+         From now on, the plugin that is being used to render a route is
+         able to be changed by the user. You can do this by adding or
+         enabling the plugin your scully.blog.config.ts
+         file. For your convenience, we loaded the Puppeteer plugin for you.
+
+         To disable this warning enable the plugin of your choice.
+         for Puppeteer please add:
+             import '@scullyio/scully-plugin-puppeteer';
+          to your scully.blog.config.ts file.
+
+          When you get this warning while not using scully-plugin-puppeteer
+          you need to set the defaultRouteRenderer to the name of your plugin.
+          The defaultRouteRenderer is now set to 'routeRenderer'.
+       ======================================================================
+
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npx scully --scanRoutes"----------------------------------
+
+
+
+handleUnknownRoute: "/assets/favicon.ico", 404:""
+
+      ----------------
+      Error, missing "<scully-content>" in route "/blog/___UNPUBLISHED___lonvkil6_tVtVDiu7cnQhNXbEF67Clr9pWQAIZ905"
+      without <scully-content> we can not render this route.
+      Make sure it is in there, and not inside any conditionals (*ngIf)
+      You can check this by opening "http://localhost:4200/blog/___UNPUBLISHED___lonvkil6_tVtVDiu7cnQhNXbEF67Clr9pWQAIZ905"
+      when you serve your app with ng serve and then in the browsers console run:
+      document.querySelector('scully-content')
+      ----------------
+      
+      ----------------
+      Error, missing "<scully-content>" in route "/blog/___UNPUBLISHED___lonvslnq_z4JiJplM9fujImaGP9j10To9ghbGmE2Z"
+      without <scully-content> we can not render this route.
+      Make sure it is in there, and not inside any conditionals (*ngIf)
+      You can check this by opening "http://localhost:4200/blog/___UNPUBLISHED___lonvslnq_z4JiJplM9fujImaGP9j10To9ghbGmE2Z"
+      when you serve your app with ng serve and then in the browsers console run:
+      document.querySelector('scully-content')
+      ----------------
+      
+
+handleUnknownRoute: "/blog", 404:""
+Folder "./scully" doesn't seem to contain custom plugins Deprecation Notice:
+       ======================================================================
+         From now on, the plugin that is being used to render a route is
+         able to be changed by the user. You can do this by adding or
+         enabling the plugin your scully.blog.config.ts
+         file. For your convenience, we loaded the Puppeteer plugin for you.
+
+         To disable this warning enable the plugin of your choice.
+         for Puppeteer please add:
+             import '@scullyio/scully-plugin-puppeteer';
+          to your scully.blog.config.ts file.
+
+          When you get this warning while not using scully-plugin-puppeteer
+          you need to set the defaultRouteRenderer to the name of your plugin.
+          The defaultRouteRenderer is now set to 'routeRenderer'.
+       ======================================================================
+
+--------------------------------------------------------------------   To discover new routes in the angular app use "npx scully --scanRoutes"Using stored unhandled routes!.
+
+
+
+handleUnknownRoute: "/assets/favicon.ico", 404:""
+Folder "./scully" doesn't seem to contain custom plugins Deprecation Notice:
+       ======================================================================
+         From now on, the plugin that is being used to render a route is
+         able to be changed by the user. You can do this by adding or
+         enabling the plugin your scully.blog.config.ts
+         file. For your convenience, we loaded the Puppeteer plugin for you.
+
+         To disable this warning enable the plugin of your choice.
+         for Puppeteer please add:
+             import '@scullyio/scully-plugin-puppeteer';
+          to your scully.blog.config.ts file.
+
+          When you get this warning while not using scully-plugin-puppeteer
+          you need to set the defaultRouteRenderer to the name of your plugin.
+          The defaultRouteRenderer is now set to 'routeRenderer'.
+       ======================================================================
+
+----------------------------------   To discover new routes in the angular app use "npx scully --scanRoutes"----------------------------------Using stored unhandled routes!.
+
+
+
+handleUnknownRoute: "/assets/favicon.ico", 404:""

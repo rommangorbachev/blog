@@ -1,0 +1,11 @@
+identifier: lfo9nbv9k555dbo2
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: blog
+homeFolder: /Users/romangorbacev/angular/blog
+distFolder: dist/blog
+outDir: /Users/romangorbacev/angular/blog/dist/static
+handle404: ''
+allowErrorCollect: true
